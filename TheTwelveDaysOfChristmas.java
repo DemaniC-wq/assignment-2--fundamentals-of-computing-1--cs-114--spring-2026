@@ -45,5 +45,7 @@ public class TheTwelveDaysOfChristmas {
   break;
   }
   }
+  System.out.println();//Prints a blank line
   }
+
 }
