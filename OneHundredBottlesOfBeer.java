@@ -13,4 +13,12 @@
   System.out.println("Please enter a number between 1 and 100:");
   verses = scan.nextInt();
   }
+  System.out.println(bottles + " bottles of beer on the wall, " );
+  System.out.println(bottles + " bottles of beer, " );
+  System.out.println("If one of those bottles should happen to fall, " );
+  System.out.println((bottles-1) + " bottles of beer on the wall. " );
+  System.out.println();
+}
+
+  }
 }
